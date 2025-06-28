@@ -1,5 +1,7 @@
 # Projects in Data Science - Medical Imaging - group R
 
+See the report [Report](Project_Report.pdf)
+
 ## Purpose
 The aim of the project is to build a model for predicting if a lesion is cancerous or not.
 
